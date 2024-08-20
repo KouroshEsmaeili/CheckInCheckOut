@@ -116,3 +116,8 @@ $RECYCLE.BIN/
 
 # CSV files
 *.csv
+
+#output auto py to exe
+output/
+OutPut/
+Output/
